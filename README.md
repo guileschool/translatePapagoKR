@@ -105,7 +105,7 @@ $ brew install pip3
 
 ### 자동 설치( 사전 설치 )
 
-다운로드하세요 [here](https://d.pr/f/XNcEFn+) <-- 자동설치용
+다운로드하세요 [here](https://d.pr/f/ODeIdT+) <-- 자동설치용
 
 [YOUTUBE(translatePapagoKR tutorials)](https://youtu.be/Z1J3QUxpTGw)
 
@@ -120,19 +120,19 @@ $ brew install pip3
 
 소스리뷰 [here](https://github.com/guileschool/translatePapagoKR/blob/master/translatePapagoKR.popclipext)
 
-1. `translatePapagoKR.popclipext` 파일의 파일명을 `translatePapagoKR.zip` 으로 변경한다
+- `translatePapagoKR.popclipext` 파일의 파일명을 `translatePapagoKR.zip` 으로 변경한다
 
 <figure>
 <img class="width-100-height-auto" src="https://d.pr/i/I74HKH+"><figcaption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 설치준비 화면</font></font></figcaption></figure>
 
-2. 해당 디렉토리(`translatePapagoKR.zip`)내의 파일중 `(1)translate_encode.sh` `(2)translate_decode.sh` `(3)papago.py` `(4)Config.plist` 을 편집한다 
+- 해당 디렉토리(`translatePapagoKR.zip`)내의 파일중 `(1)translate_encode.sh` `(2)translate_decode.sh` `(3)Config.plist` 을 편집한다 
 
 <figure>
-<img class="width-100-height-auto" src="https://d.pr/i/k5om6W+"><figcaption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 파일 수정 작업</font></font></figcaption></figure>
+<img class="width-100-height-auto" src="https://d.pr/i/6WJnkg+"><figcaption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 파일 수정 작업</font></font></figcaption></figure>
 
-3. 편집을 완료하고나면, 파일명(`translatePapagoKR.zip`)을 원래의 파일명(`translatePapagoKR.popclipext`)으로 다시 복원(수정)한다
-4. translatePapagoKR.popclipext 을 더블클릭하면 설치가 완료된다
-5. 이제부터 사용하면 된다
+- 편집을 완료하고나면, 파일명(`translatePapagoKR.zip`)을 원래의 파일명(`translatePapagoKR.popclipext`)으로 다시 복원(수정)한다
+- translatePapagoKR.popclipext 을 더블클릭하면 설치가 완료된다
+- 이제부터 사용하면 된다
 
 ### 사용방법
 단어나 문장을 **마우스**로 선택함과 동시에 **popclip** 팝업창이 뜨며, 이중 원하는 **번역** 지원 아이콘(버튼)을 클릭한다

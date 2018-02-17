@@ -9,13 +9,12 @@ import urllib.request
 import getopt
 import unittest, time, re
 import json
+import subprocess
+from urllib.request import urlopen, Request
 
 ###
 ## 나의 파파고 정보
 # https://developers.naver.com/apps/#/myapps
-
-YOUR_CLIENT_ID="Enter the Papago user id"
-YOUR_CLIENT_SECRET="Enter Papago user secret access code"
 
 LANG_FROM=""
 LANG_TO=""
@@ -31,9 +30,12 @@ class Untitled(unittest.TestCase):
         pass
 
     def test_untitled(self):
-        client_id=YOUR_CLIENT_ID
-        client_secret=YOUR_CLIENT_SECRET
-
+        user=os.getenv('USER')
+        cmd="security find-generic-password -a $(whoami) -s papago_userid -w"
+        client_id=subprocess.check_output(cmd, stderr=True, shell=True).rstrip()
+        cmd="security find-generic-password -a $(whoami) -s papago_userpw -w"
+        client_secret=subprocess.check_output(cmd, stderr=True, shell=True).rstrip()
+        
         # exception
         if(client_id==""):
                 print (" \
@@ -105,3 +107,4 @@ Usage1: python papago_gs.py \n\
                         REPLACE_DASH= True
 
         unittest.main(argv=[sys.argv[0]])
+
