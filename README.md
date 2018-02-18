@@ -105,7 +105,7 @@ $ brew install pip3
 
 ### 자동 설치( 사전 설치 )
 
-다운로드하세요 [here](https://d.pr/f/0zfZoP+) <-- 자동설치용
+다운로드하세요 [here](https://d.pr/f/WeUr0h+) <-- 자동설치용
 
 [YOUTUBE(translatePapagoKR tutorials)](https://youtu.be/Z1J3QUxpTGw)
 
