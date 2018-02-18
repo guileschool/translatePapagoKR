@@ -137,7 +137,7 @@ $ brew install pip3
 [YOUTUBE](https://youtu.be/rBxD_iwx61k)
 
 <figure>
-<img class="width-100-height-auto" src="https://d.pr/i/2umKWC+"><figcaption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 파파고 서비스 사용자 정보 입력</font></font></figcaption></figure>
+<img class="width-100-height-auto" src="https://d.pr/i/5aRc5x+"><figcaption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 파파고 서비스 사용자 정보 입력</font></font></figcaption></figure>
 
 - 이제부터 사용하면 된다
 
