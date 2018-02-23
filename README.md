@@ -127,8 +127,31 @@ $ brew install pip3
 
 - 해당 디렉토리(`translatePapagoKR.zip`)내의 파일중 `(1)translate_encode.sh` `(2)translate_decode.sh` `(3)Config.plist` 을 편집한다 
 
-<figure>
-<img class="width-100-height-auto" src="https://d.pr/i/nBs15Q+"><figcaption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 파일 수정 작업</font></font></figcaption></figure>
+
+
+<style>
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /*16:9*/
+  padding-top: 30px; 
+  height: 0; 
+  overflow: hidden;
+}
+ 
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+</style>
+<div class="video-container">
+  <iframe width="640" height="360" src="//www.youtube.com/embed/bvqmMcxCQ90" frameborder="0" allowfullscreen></iframe>
+</div>
+▲ 파일 수정 작업
 
 - 편집을 완료하고나면, 파일명(`translatePapagoKR.zip`)을 원래의 파일명(`translatePapagoKR.popclipext`)으로 다시 복원(수정)한다
 - translatePapagoKR.popclipext 을 더블클릭하면 설치가 완료된다
