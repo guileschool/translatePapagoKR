@@ -127,31 +127,8 @@ $ brew install pip3
 
 - 해당 디렉토리(`translatePapagoKR.zip`)내의 파일중 `(1)translate_encode.sh` `(2)translate_decode.sh` `(3)Config.plist` 을 편집한다 
 
-
-
-<style>
-.video-container {
-  position: relative;
-  padding-bottom: 56.25%; /*16:9*/
-  padding-top: 30px; 
-  height: 0; 
-  overflow: hidden;
-}
- 
-.video-container iframe,
-.video-container object,
-.video-container embed {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-</style>
-<div class="video-container">
-  <iframe width="640" height="360" src="//www.youtube.com/embed/bvqmMcxCQ90" frameborder="0" allowfullscreen></iframe>
-</div>
-▲ 파일 수정 작업
+[![파일 수정 작업](http://img.youtube.com/vi/bvqmMcxCQ90/0.jpg)](https://youtu.be/bvqmMcxCQ90?t=0s)
+▲ 파일 수정 작업( YOUTUBE )
 
 - 편집을 완료하고나면, 파일명(`translatePapagoKR.zip`)을 원래의 파일명(`translatePapagoKR.popclipext`)으로 다시 복원(수정)한다
 - translatePapagoKR.popclipext 을 더블클릭하면 설치가 완료된다
@@ -182,6 +159,62 @@ $ brew install pip3
 
 <figure>
 <img class="width-100-height-auto" src="https://d.pr/i/Dr7l5x+"><figcaption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 터미널로 본 디렉토리 구조</font></font></figcaption></figure>
+
+## 단축키를 쓰고 싶다면?
+[키보드 마에스트로 프로그램](https://www.keyboardmaestro.com)이 반드시 필요합니다
+[![YOUTUBE](http://img.youtube.com/vi/KxMeBvHhRmI/0.jpg)](https://youtu.be/KxMeBvHhRmI?t=0s)
+
+▲ 키보드마에스트로 설치( YOUTUBE )
+
+이 방법 말고 다른 방법의 지원을 원하신다면 글쎄요... 아직은 계획없습니다
+
+[매크로파일 다운로드](https://d.pr/f/NWytuv+)
+SHA256SUM
+3981cda1fd67c721c4b37f2c8d3eb0fbc282adcf1a2b501e7ac2045f297a6a86  `Language Translator Macros.kmlibrary`
+<!--more-->
+
+[![YOUTUBE](http://img.youtube.com/vi/nDz1HVk8RKI/0.jpg)](https://youtu.be/nDz1HVk8RKI?t=0s)
+
+▲ 매크로 데모( YOUTUBE )
+
+#### 간단한 사용방법 
+매크로파일을 다운로드 한 이후 해당 파일을 더블클릭하면 설치가 간단히 완료된다
+
+<figure>
+<img class="width-100-height-auto" src="https://d.pr/i/gp678p+"><figcaption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">▲ 번역 매크로의 설치</font></font></figcaption></figure>
+
+
+처음에 한번에 한하여 <kbd><⌘+⌃+⇧+`></kbd> 을 눌러서 번역기 기본 설정을 해 준다
+
+[![YOUTUBE](http://img.youtube.com/vi/hiu1jZb2ABI/0.jpg)](https://youtu.be/hiu1jZb2ABIt=0s)
+
+▲ 매크로 사용 방법( YOUTUBE )
+
+원하는 문장이나 단어를 선택(SELECTION) 하고 KEY1 을 누르면 즉시 번역문으로 변경된다(replace)
+원하는 문장이나 단어 바로 뒤에 커서를 위치시킨 상태에서 KEY2, KEY3, 혹은 KEY4 을 누르는 방식도 가능하다
+
+KEY1은 선택한 부분을 번역
+
+KEY2은 커서 바로 직전 단어 번역
+
+KEY3은 컬럼1 부터 현재 커서 위치까지를 번역
+
+KEY4은 전체 선택 번역
+
+#### 단축키 CHEAT SHEET
+
+| MAIN KEY | TITLE | DESCRIPTION | KEY1 | KEY2 | KEY3 | KEY4
+| :-----: | :-----: | :-----: | :-----: | :-----: | :-----: | :-----:
+| ` | Select Translator | 번역기 기본 설정 | <kbd><⌘+⌃+⇧+`></kbd> | None | None  | None
+| NUM6 | Replacement | 기존 문장을 대치한다 | <kbd><⌘+6></kbd> | <kbd><⌥+⇧+6></kbd> | <kbd><⌘+⇧+6></kbd> | <kbd><⌘+⌃+⇧+6></kbd>
+| NUM7 | Parentheses | 기존문장(번역문) | <kbd><⌘+7></kbd> | <kbd><⌥+⇧+7></kbd> | <kbd><⌘+⇧+7></kbd> | <kbd><⌘+⌃+⇧+7></kbd>
+| NUM8 | Dash | 공백문자를 모두 '-' | <kbd><⌘+8></kbd> | <kbd><⌥+⇧+8></kbd> | <kbd><⌘+⇧+8></kbd> | <kbd><⌘+⌃+⇧+8></kbd>
+| NUM9 | UnderScore | 공백문자를 모두 '_' | <kbd><⌘+9></kbd> | <kbd><⌥+⇧+9></kbd> | <kbd><⌘+⇧+9></kbd> | <kbd><⌘+⌃+⇧+9></kbd>
+| NUM0 | Clipboard | 번역결과를 클립보드에 저장 | <kbd><⌘+0></kbd> | <kbd><⌥+⇧+0></kbd> | <kbd><⌘+⇧+0></kbd> | <kbd><⌘+⌃+⇧+0></kbd>
+| - | Double_wildcard | 마크다운 볼드체 | <kbd><⌘+-></kbd> | <kbd><⌥+⇧+-></kbd> | <kbd><⌘+⇧+-></kbd> | <kbd><⌘+⌃+⇧+-></kbd>
+| + | Backtick | 마크다운 인라인 | <kbd><⌘+=></kbd> | <kbd><⌥+⇧+=></kbd> | <kbd><⌘+⇧+=></kbd> | <kbd><⌘+⌃+⇧+=></kbd>
+
+이 **translate_hotkey** 의 가장 큰 장점은 특정 편집기나 지정된 어플리케이션에서만 사용할 수 있지 않고, 어떤 프로그램이든지 함께 사용 가능하다는 점이다
 
 ## 도움이 필요하십니까 버그를 발견했나요?
 
