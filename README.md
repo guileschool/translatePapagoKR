@@ -9,6 +9,9 @@ tags: [자동제어,자동화,time-saver,리눅스,맥북,스마트홈,파파고
 
 원문 http://guileschool.com/2018/02/05/PopClip-Extension-for-papago/
 
+<figure>
+<img class="width-100-height-auto" src="https://d.pr/i/0prZPq+"><figcaption><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"></font></font></figcaption></figure>
+
 ### 파파고란?
 ><a href='https://developers.naver.com/products/nmt/'>공식홈페이지</a>
 <!--more-->
