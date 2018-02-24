@@ -162,6 +162,7 @@ $ brew install pip3
 
 ## 단축키를 쓰고 싶다면?
 [키보드 마에스트로 프로그램](https://www.keyboardmaestro.com)이 반드시 필요합니다
+
 [![YOUTUBE](http://img.youtube.com/vi/KxMeBvHhRmI/0.jpg)](https://youtu.be/KxMeBvHhRmI?t=0s)
 
 ▲ 키보드마에스트로 설치( YOUTUBE )
