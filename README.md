@@ -172,9 +172,9 @@ $ brew install pip3
 
 이 방법 말고 다른 방법의 지원을 원하신다면 글쎄요... 아직은 계획없습니다
 
-[매크로파일 다운로드](https://d.pr/f/NWytuv+)
+[매크로파일 다운로드](https://d.pr/f/pKrww8+)
 SHA256SUM
-3981cda1fd67c721c4b37f2c8d3eb0fbc282adcf1a2b501e7ac2045f297a6a86  `Language Translator Macros.kmlibrary`
+07b4353b414fcfd74c8aa785a877563cc908cbf0bf156bb17a0c1b30bac0fbd9  `Language Translator Macros.kmlibrary`
 <!--more-->
 
 [![YOUTUBE](http://img.youtube.com/vi/nDz1HVk8RKI/0.jpg)](https://youtu.be/nDz1HVk8RKI?t=0s)
