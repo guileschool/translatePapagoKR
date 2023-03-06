@@ -44,7 +44,5 @@
 	<string>com.guileschool.popclip.extension.papago</string>
 	<key>Extension Name</key>
 	<string>papago translate</string>
-	<key>Required Apps</key>
-	<integer>701</integer>
 </dict>
 </plist>
